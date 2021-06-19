@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Application Development.
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on Nodejs Application.
-- 📫 How to reach me visit http://www.ubaidurrehman.tech
+- 📫 How to reach me visit https://www.ubaidurrehman.com
 
 <!---
 ubaidurrehman87/ubaidurrehman87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
